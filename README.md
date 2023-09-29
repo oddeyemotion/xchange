@@ -11,7 +11,7 @@
 
 ## List views
 ### 0 - Splash screen
-[](https://github.com/oddeyemotion/xchange/blob/55a601004bb03b9055c40887f677c74356df8ede/XCHANGE-(2)/XCHANGE%20(2)-01.png)
+[](/XCHANGE-(2)/01.png)
 A static png image of the logo.
 ### 1 - Login
 Have the user enter their email/username and password. (Int he prototype, we only let user use the username).
