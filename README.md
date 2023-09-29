@@ -11,6 +11,7 @@
 
 ## List views
 ### 0 - Splash screen
+[](/XCHANGE-(2)/XCHANGE (2)-01.png)
 A static png image of the logo.
 ### 1 - Login
 Have the user enter their email/username and password. (Int he prototype, we only let user use the username).
@@ -61,7 +62,7 @@ Components from top to bottom:
 2. Product tags
 3. Product name
 4. Username of the owner and their approx. location and their approx. distance.
-5. 2 columns: Condition of the product & Wants to trade with
+5. 2 columns: Condition of the product & Exchange with
 6. Description (if available) of the shown product.
 At the bottom, there are 3 buttons: 
 1. Save (let user save this product detail for later. We do not plan to develop this feature right now.)
