@@ -11,7 +11,7 @@
 
 ## List views
 ### 0 - Splash screen
-[](/XCHANGE-(2)/01.png)
+[](/assets/01.png)
 A static png image of the logo.
 ### 1 - Login
 Have the user enter their email/username and password. (Int he prototype, we only let user use the username).
