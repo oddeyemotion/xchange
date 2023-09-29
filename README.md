@@ -1,17 +1,8 @@
 # Xchange PWA
 
-## Technical questions
-1. Để hiển thị gợi ý tìm kiếm có khó k?
-2. Để hiển thị bộ lọc có khó k?
-3. Có những chỗ đang "?? characters" thì nên làm ntn?
-
-## Problems
-1. Nếu list của bên A có nhiều hơn 1 sp phù hợp để exchange, thì nếu cho chọn nhiều sp thì sẽ hơi khó develop -> chỉ cho chọn 1 sp, bên A có thể message cho bên B để mời bên B vô profile xem thêm.
-2. View 2.3 cần lấy API map để user pick location
-
-## List views
+## List of views
+Visit [our Figma project](https://www.figma.com/file/mHr2ggyp7dv5hFKIySZcCH/XCHANGE?type=design&node-id=0%3A1&mode=design&t=cxH4MUhRExXXLRht-1) to observe these views.
 ### 0 - Splash screen
-![](https://raw.githubusercontent.com/oddeyemotion/xchange/main/assets/01.png)
 A static png image of the logo.
 ### 1 - Login
 Have the user enter their email/username and password. (Int he prototype, we only let user use the username).
@@ -79,6 +70,15 @@ Only develop static front-end, no feature.
 1. Profile
 2. Chat
 3. Settings
+
+## Technical questions
+1. Để hiển thị gợi ý tìm kiếm có khó k?
+2. Để hiển thị bộ lọc có khó k?
+3. Có những chỗ đang "?? characters" thì nên làm ntn?
+
+## Problems
+1. Nếu list của bên A có nhiều hơn 1 sp phù hợp để exchange, thì nếu cho chọn nhiều sp thì sẽ hơi khó develop -> chỉ cho chọn 1 sp, bên A có thể message cho bên B để mời bên B vô profile xem thêm.
+2. View 2.3 cần lấy API map để user pick location
 
 ## PWA?
 PWA mang lại trải nghiệm giống Native app nhưng bản chất là Web app. Tốc độ load nhanh hơn, có thể dùng khi không có Internet, dung lượng nhẹ hơn và cài đặt tiện hơn so với Native app.
